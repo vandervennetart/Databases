@@ -1,0 +1,19 @@
+﻿id,naam,voornaam,straat_en_nummer,gemeente,postcode,land
+1,Peters,Jan,Pierstraat 5,Aartselaar,2630,BE
+2,Degrootte,Nick,Palmboomstraat 4,Diest,3290,BE
+3,Deridder,Eva,Pelserstraat 17,Maaseik,3680,BE
+4,Wilms,Frederik,Molendreef 121,Waasmunster,9250,BE
+5,Moons,Anja,Rue des Brasseurs 13,Mons,7000,BE
+6,Van gogh,Sara,rue van gogh 12,Paris,75012,FR
+7,Richard,Pierre,Rue de Soleil,Saint-Tropez,83990,FR
+8,Romer,Linda,Ahornstrasse 7,Berlin,12624,DE
+9,Lindt,Aurelie,18 Rue Richmont,Geneve,1202,CH
+10,Borger,Bjorn,Langstrasse 500,Zurich,8005,CH
+11,Herman,Fries,Avenue de Cour 20,Lausanne,1007,CH
+12,Zoetemelk,Joop,Delftlandlaan 19,Amsterdam,1062,NL
+13,De Loenen,Belinda,Kleine Gracht 24,Maastricht,6222,NL
+14,Santos,Carlos,Plaza de Torros 6,Granada,18010,ES
+15,Witteveen,Kees,Hoefkade 9,Den Haag,2526,NL
+16,Contador,Jorge,Paseo de Sancha 17,Malaga,29016,ES
+17,Castello,Isabella,Frezzaria 128 San Marco,Venetie,30124,IT
+18,Corce,Paolo,Via del porto 6,Bologna,40122,IT
